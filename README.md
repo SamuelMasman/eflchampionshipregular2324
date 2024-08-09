@@ -5,5 +5,7 @@ Leicester City Football Club has the largest goal difference (50). They have bee
 Sammie Szmodics is the regular season's leading scorer, while Saints forward Adam Armstrong has the most goal contributions (21G + 13A).
 
 Extract and Visualize Data: Jupyter Notebook
+
 Data Source: FBREF
+
 Github: https://lnkd.in/g4bAPQbA 
